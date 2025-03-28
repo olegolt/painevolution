@@ -1,9 +1,9 @@
-# Testing the mismatch hypothesis for chronic pain – insights from ancient, comparative and neuroimaging genomics
+# The mismatch hypothesis for chronic pain – insights from ancient, comparative and neuroimaging genomics
 
-`[Last update: 2024-05-28]`
+`[Last update: 2025-03-28]`
 
 ***
-Poster presented at PUG 2024, Hamburg <br>
+Poster to be presented at EFIC 2025, Lyon <br>
 
 contact: ole.goltermann@maxplanckschools.de
 
