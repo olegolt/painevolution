@@ -1,6 +1,7 @@
 # The mismatch hypothesis for chronic pain – insights from ancient, comparative and neuroimaging genomics
 
-`[Last update: 2025-03-28]`
+![Last update](https://img.shields.io/badge/last_update-April_17,_2025-green)
+
 
 ***
 Poster to be presented at EFIC 2025, Lyon <br>
